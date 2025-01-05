@@ -1,2 +1,2 @@
 # gitops-for-k8s-gitops-integration
-GitHub flow testing
+GitHub flow testing configuration
