@@ -1,11 +1,9 @@
 name: Create Docker Image CI
 on:
   push:
-    branches: 
-      - main
+    branches: [ main ]
   pull_request:
-    branches: 
-      - main
+    branches:
 jobs:
   build:
     runs-on: ubuntu-latest
